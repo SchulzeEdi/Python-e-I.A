@@ -164,10 +164,6 @@ def gerarEstatistica():
         plt.xlabel('produtos')
         plt.show()
 
-def
-
-
-
 while not autentico:
     decisao = int(input('digite 1 para logar e 2 para cadastrar'))
     try:
